@@ -1,0 +1,7 @@
+{
+  "port": 1515,
+  "api": {
+    "endpoint1": "http://api.gueno.com.ar/challenge/getCuit",
+    "endpoint2": "http://api.gueno.com.ar/challenge/getUserData"
+  }
+}
